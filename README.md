@@ -1,6 +1,6 @@
 # JavaScript - Missão de Aprendizado: Deploy e Segurança
 Projeto da Missão de Aprendizado da profissão Dev Backend JavaScript: Deploy e Segurança
-8:28
+
 1. **Configuração de Produção:**
   - Adequar a aplicação para o ambiente de produção, incluindo a configuração do `dotenv`.
 
