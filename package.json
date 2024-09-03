@@ -1,0 +1,20 @@
+{
+  "name": "backend-missao-aprendizado-deploy-e-seguranca",
+  "version": "1.0.0",
+  "description": "Projeto da Missão de Aprendizado da profissão Dev Backend JavaScript: Deploy e Segurança",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
